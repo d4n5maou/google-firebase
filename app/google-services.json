@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299232302145",
+    "project_id": "fir-2640f",
+    "storage_bucket": "fir-2640f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299232302145:android:031735eee46bae885b62c0",
+        "android_client_info": {
+          "package_name": "com.pab.firebasedosen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlHLWa4S3gWHjwsc5M4bqW-UNVo360zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
